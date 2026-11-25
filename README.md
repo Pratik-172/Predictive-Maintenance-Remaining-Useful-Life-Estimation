@@ -261,17 +261,23 @@ results/
 
 ### Actual vs Predicted RUL
 
+<img width="800" height="600" alt="actual_vs_predicted" src="https://github.com/user-attachments/assets/02b233b8-2077-4734-8759-ccd07a910989" />
+
 This graph compares the actual RUL values with the model's predicted RUL values.
 
 Predictions closer to the ideal comparison line indicate smaller prediction errors.
 
 ### Error Distribution
 
+<img width="800" height="600" alt="error_distribution" src="https://github.com/user-attachments/assets/68670a79-c050-488d-a966-a06baa33411e" />
+
 This graph shows how the prediction errors are distributed across the test engines.
 
 It helps identify whether errors are generally small or whether the model has larger errors for some engines.
 
 ### Feature Importance
+
+<img width="800" height="600" alt="feature_importance" src="https://github.com/user-attachments/assets/7f25a650-7d1a-4ff8-9df1-42e6f6b854ed" />
 
 This graph displays the feature importance values provided by the trained Gradient Boosting model.
 
@@ -280,6 +286,10 @@ It helps identify which input features contributed more strongly to the model's 
 ---
 
 ## 10. Streamlit Dashboard
+
+<img width="1803" height="463" alt="Screenshot 2026-11-25 233919" src="https://github.com/user-attachments/assets/e07e6be5-07cb-4770-9b3e-19f71a7909ed" />
+<img width="1786" height="567" alt="Screenshot 2026-11-25 233939" src="https://github.com/user-attachments/assets/637fd1af-5806-4643-b672-47b17fc4c31a" />
+<img width="1803" height="576" alt="Screenshot 2026-11-25 233955" src="https://github.com/user-attachments/assets/7a9910dd-9535-4f38-bb80-b190bd4322da" />
 
 The project includes an interactive Streamlit dashboard.
 
