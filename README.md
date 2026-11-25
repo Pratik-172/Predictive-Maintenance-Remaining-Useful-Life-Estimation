@@ -18,6 +18,9 @@ RUL is measured in operating cycles.
 
 For example, an RUL prediction of 25 cycles means that the model estimates approximately 25 operating cycles remaining before the engine reaches its failure point in the dataset.
 
+<img width="1308" height="2022" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/5e11869e-edc5-49fa-ac30-ac2db917fa78" />
+
+
 ---
 
 ## 2. Project Objectives
